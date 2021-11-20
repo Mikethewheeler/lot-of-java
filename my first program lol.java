@@ -4,6 +4,7 @@ public class Main {
     double myDouble = myInt; // Automatic casting
 
     System.out.println(myInt);      // Outputs 9
-    System.out.println(myDouble);   // Outputs 9.0
+    System.out.println(myDouble);   // Outputs 9.0 
+    // Uses automatic Typecasting
   }
 }
