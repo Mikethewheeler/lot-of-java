@@ -1,0 +1,24 @@
+ /* import java.util.Scanner; // Imports scanner (Which is used for getting user input)
+
+@SuppressWarnings("unused") // lol just something I used to prevent confusion
+
+public class MainClass {  // Class
+	public static void main(String[] args) { // Method (They are super hard to explain lol)
+		int min = 1; // const (Value stays the same the whole time)
+	    int max = 10; // const (Same as ^^)
+		
+		Scanner sc = new Scanner(System.in); // Create scanner object
+	     int i = sc.nextInt(); // Sets scanner to whatever in the user types (A int is a number lol)
+	     sc.close();  // Closes keyboard
+	     
+	     int random_int = (int)Math.floor(Math.random()*(max-min+1)+min); // Generate random number
+	     
+	     if (random_int == i ) { // If userinput equals the randomly generated number
+	    	 System.out.println("You guessed right! The number was " + random_int); 
+	    	 Scanner scaTwo = new Scanner(System.in);
+	     } else {
+	    	 System.out.println("Not quite, the number was " + random_int);
+	    	 Scanner scaTwo = new Scanner(System.in);
+	    	 }
+	}
+}  */ 
