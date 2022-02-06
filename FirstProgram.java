@@ -1,3 +1,4 @@
+// This was my first java program, no it isn't going to be good (I also had no idea how to use classes and methods back then
 public class Main {
   public static void main(String[] args) {
     int IntTooDouble = 4;
