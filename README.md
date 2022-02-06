@@ -1,5 +1,3 @@
-# heh enjoy reading my (basically) useless code
+# THIS IS SOME OF THE FIRST SCRIPTS I WROTE IN JAVA
 
-
-
-if this is useful, well thats quite interesting because i put nothing cool on here ;)
+now adays i write stuff using classes and methods (like literally everyone else does) :D
